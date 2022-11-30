@@ -1,0 +1,229 @@
+*{
+    font-family: sans-serif;
+    color: rgb(76, 78, 80);
+}
+.container{
+    height: 100%;
+    width: 90%;
+    background-color: aqua;
+}
+ .left_side{
+    float: left;
+    width: 50%;
+    height: 100%;
+    background-color: rgb(67, 84, 236);
+}
+.mess
+{
+    margin: 3 5; height: 90%;
+                width: 60%;
+}
+.inner_left{
+    float: right;
+    width: 90%;
+    height: 80%;
+    margin-top: 10%;
+    border-bottom-left-radius: 5%;
+    border-top-left-radius: 5%;
+    background-color: rgb(245, 245, 245);
+}
+.flash{
+    margin-top: 5%;
+    margin-left: 5%;
+    float: left;
+     background-image: linear-gradient(to right top,rgb(80, 35, 245),rgb(123, 6, 231), rgb(204, 10, 230)); 
+height: 10%;
+    width: 10%;
+    border-radius: 10%;
+}
+.second
+{
+    float: left;
+     height: 5; 
+     width: 80; 
+     border-radius: 10%;
+      background-color: rgb(201, 199, 199); 
+      margin-left: 5%;
+}
+.first
+{
+    float: left; height: 5; width: 80;
+     border-radius: 10%;
+      background-color:blue; 
+      margin-left:25%;
+}
+.third
+{
+    float: left; 
+    height: 5; 
+    width: 80; 
+    border-radius: 10%;
+     background-color: rgb(201, 199, 199); 
+     margin-left: 5%;
+}
+.clever{
+    float: left;
+    margin-top: 5%;
+}
+.holder{
+    margin-top: 30px;
+    height: 500px;
+    width: 500px;
+    background-color: aliceblue;
+    border-radius: 50%;
+}
+.holder2{
+    margin-top: 5%;
+    height: 400px;
+    width: 400px;
+    background-color: rgb(244, 249, 252);
+    border-radius: 50%;
+}
+.holder3{
+    margin: 5%;
+    height: 300px;
+    width: 300px;
+    background-color: rgb(67, 84, 236);
+    border-radius: 50%;
+}
+.imageholding{
+    margin-top: 3%;
+    margin-left: -6%;
+    height: 250px;
+    width: 340px;
+    background-color:  rgba(238, 235, 235, 0.4);
+    border-radius: 5%;
+}
+.right_side{
+    float: left;
+    width: 50%;
+    height: 100%;
+    background-color: rgb(235, 235, 235);
+    font-family: inter;
+}
+.inner_right{
+    float: left;
+    width: 90%;
+    height: 80%;
+    margin-top: 10%;
+    border-bottom-right-radius: 5%;
+    border-top-right-radius: 5%;
+    background-color: rgb(255, 255, 255);
+}
+.form_container{
+    width: 50%;
+    height: 80%;
+    margin-top: 5%;
+    border-radius: 5%;
+    background-color: rgb(235, 235, 235);
+}
+.google
+{
+    margin-left: -40%;
+    height: 12%;
+    width: 20%;
+    }
+    .apple
+{
+    margin-left: 10%;
+    margin-top: -19%;
+   height: 2%;
+   width: 2%;
+
+    }
+form{
+    width: 90%;
+}
+label{
+    margin-top: -10px;
+    font-size: 11;
+    color: rgb(85, 83, 81);
+}
+.input{
+    font-size: 11;  
+    width: 90%;
+    height: 30px;
+    border-radius: 5px;
+    border: none;
+    align-items: center;
+}
+.create
+{
+    font-size: 14; font-weight: bold; margin-top: -10;
+}
+.myp
+{
+    background: -webkit-linear-gradient(rgb(182, 83, 248), rgb(0, 38, 255));
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+}
+.btn{
+    font-size: 11;
+    width: 90%;
+    height: 35px;
+    border-radius: 5px;                 
+    background-color: rgb(67, 84, 236);
+    color: aliceblue;
+    border: none;
+}
+.icon{
+    float: left; width: 20%; height: 10%; background-color: rgb(255, 255, 255); border-radius: 5%;
+        margin-left: 10%;
+        margin-top: -10%;
+}
+
+.icon img{
+    height: 60%;
+    width: 40%;
+}
+.iconbutton {
+    float: right; width: 10%; height: 10%; background-color: rgb(0, 0, 0); border-radius: 50%;
+        margin-right: 10%;
+}
+/* .fb
+{
+    height: 1%;
+    width: 2%;
+}
+.apple
+{
+    height: 1%;
+    width: 2%;
+    border-radius: 20px;
+} */
+
+
+.google
+{
+    margin-left: -40%;
+    height: 12%;
+    width: 20%;
+    }
+    .apple
+{
+    margin-left: 10%;
+    margin-top: -23%;
+   height: 2%;
+   width: 2%;
+
+    }
+    .fb
+{
+    margin-left: 10%;
+    margin-top: -18%;
+   height: 2%;
+   width: 2%;
+
+    }
+    .fba
+    {
+        height: 5%;
+   width: 5%;
+    }
+ 
+    .applea
+    {
+        height: 12%;
+        width: 12%;
+    } 
+    
